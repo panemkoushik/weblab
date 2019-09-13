@@ -118,7 +118,7 @@ td:hover{
     background-image:linear-gradient(red,white);
 }
 .energy{
-    background-image:linear-gradient(yellow,white);
+    background-image:linear-gradient(teal,white);
 }
 .water:hover{
     z-index:200;
