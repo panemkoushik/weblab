@@ -121,17 +121,17 @@ td:hover{
     background-image:linear-gradient(yellow,white);
 }
 .water:hover{
-    z-index:2;
+    z-index:200;
 }
    
 .food:hover{
-   z-index:2;
+   z-index:200;
 }
 .health:hover{
-   z-index:2;
+   z-index:200;
 }
 .energy:hover{
-    z-index:2;
+    z-index:200;
 }
 .outertext{
     margin:0;
