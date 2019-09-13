@@ -170,3 +170,6 @@ iframe{
 .avc:hover{
    background-color:gray;
 }
+.vision div:hover{
+    z-index:2;
+}
