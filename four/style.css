@@ -120,6 +120,19 @@ td:hover{
 .energy{
     background-image:linear-gradient(yellow,white);
 }
+.water:hover{
+    z-index:2;
+}
+   
+.food:hover{
+   z-index:2;
+}
+.health:hover{
+   z-index:2;
+}
+.energy:hover{
+    z-index:2;
+}
 .outertext{
     margin:0;
     display:block;
@@ -169,7 +182,4 @@ iframe{
 }
 .avc:hover{
    background-color:gray;
-}
-.vision div:hover{
-    z-index:2;
 }
