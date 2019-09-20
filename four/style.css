@@ -104,7 +104,7 @@ td:hover{
     vertical-align: middle;
 }
 .vision div:hover{
-    z-index:Auto;
+    z-index:10;
     
 }
 .water{
