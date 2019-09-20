@@ -55,7 +55,7 @@ table a{
 }
 td:hover{
     background-color: blue;
-    transition:0.5s;
+
 }
 .image1{
     display:inline-block;
@@ -180,6 +180,4 @@ iframe{
     top:15%;
     z-index:10;
 }
-.avc:hover{
-   background-color:gray;
-}
+
