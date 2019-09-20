@@ -105,7 +105,7 @@ td:hover{
 }
 .vision div:hover{
     z-index:10;
-    transition:0.4s;
+    
 }
 .water{
     background-image:linear-gradient(blue,white);
